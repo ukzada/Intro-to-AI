@@ -1,2 +1,2 @@
 # Intro-to-AI
-here you can find beginner level code 
+Here you can find all the projects that I have created at my university.
